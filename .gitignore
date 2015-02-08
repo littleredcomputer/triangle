@@ -1,0 +1,11 @@
+box_gl
+orbit_gl
+orbit_pr
+simple_gl
+simple_pr
+triangle_gl
+triangle_pr
+*.png
+*.pov
+*.inc
+tmp-*-movie/
